@@ -1,5 +1,12 @@
 /bin/
 *Debug.win32/
 *Release.win32/
-/proj.win32/res
+/proj.win32/*.db
 *.vs/
+/proj.android-studio/build
+*.gradle/
+/proj.android-studio/app/assets
+/proj.android-studio/app/build
+/proj.android-studio/app/libs
+/proj.android-studio/app/obj
+/cocos2d/cocos/platform/android/libcocos2dx/build
