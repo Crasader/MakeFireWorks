@@ -1,0 +1,83 @@
+﻿  1 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  3 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  6 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  4 個のファイルをコピーしました
+libtiff-2015.lib(tif_win32.obj) : warning LNK4075: /EDITANDCONTINUE は /OPT:ICF の指定によって無視されます。
+  libchipmunk-2015.lib(chipmunk.obj) : MSIL .netmodule または /GL を伴ってコンパイルされたモジュールが見つかりました。/LTCG を使用して再開始してください。リンカーのパフォーマンスを向上させるためには、コマンドラインに /LTCG を追加してください。
+libtiff-2015.lib(tif_win32.obj) : warning LNK4075: /EDITANDCONTINUE は /OPT:ICF の指定によって無視されます。
+     ライブラリ C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\libcocos2d.lib とオブジェクト C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\libcocos2d.exp を作成中
+LINK : warning LNK4098: defaultlib 'LIBCMT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  コード生成しています。
+  コード生成が終了しました。
+libchipmunk-2015.lib(chipmunk.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(chipmunk.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpBody.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpBody.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpShape.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpShape.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpConstraint.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpConstraint.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpPinJoint.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpPinJoint.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpSlideJoint.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpSlideJoint.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpPivotJoint.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpPivotJoint.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpGrooveJoint.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpGrooveJoint.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpDampedSpring.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpDampedSpring.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpSpace.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpSpace.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpSpaceComponent.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpSpaceComponent.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpArbiter.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpArbiter.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpDampedRotarySpring.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpDampedRotarySpring.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpRotaryLimitJoint.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpRotaryLimitJoint.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpRatchetJoint.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpRatchetJoint.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpGearJoint.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpGearJoint.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpSimpleMotor.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpSimpleMotor.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpPolyShape.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpPolyShape.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpSpaceQuery.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpSpaceQuery.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpSpaceStep.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpSpaceStep.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpSpaceDebug.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpSpaceDebug.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpArray.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpArray.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpCollision.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpCollision.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpHashSet.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpHashSet.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpBBTree.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpBBTree.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpSpaceHash.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpSpaceHash.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpSpatialIndex.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpSpatialIndex.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk-2015.lib(cpRobust.obj) : warning LNK4099: PDB 'chipmunk.pdb' が 'libchipmunk-2015.lib(cpRobust.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\chipmunk.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_aux.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_aux.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_close.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_close.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_codec.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_codec.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_color.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_color.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_compress.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_compress.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_dir.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_dir.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_dirinfo.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_dirinfo.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_dirread.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_dirread.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_dirwrite.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_dirwrite.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_dumpmode.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_dumpmode.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_error.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_error.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_fax3.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_fax3.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_fax3sm.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_fax3sm.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_getimage.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_getimage.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_flush.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_flush.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_luv.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_luv.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_lzw.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_lzw.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_next.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_next.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_open.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_open.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_packbits.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_packbits.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_predict.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_predict.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_read.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_read.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_swab.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_swab.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_strip.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_strip.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_thunder.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_thunder.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_tile.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_tile.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_warning.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_warning.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_write.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_write.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff-2015.lib(tif_win32.obj) : warning LNK4099: PDB 'vc140.pdb' が 'libtiff-2015.lib(tif_win32.obj)' で、または 'C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\vc140.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  libcocos2d.vcxproj -> C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\libcocos2d.dll
+  libcocos2d.vcxproj -> C:\Users\yuu\Documents\Cocos\MakeFW\proj.win32\Release.win32\libcocos2d.pdb (Full PDB)
