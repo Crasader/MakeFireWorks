@@ -1,5 +1,5 @@
 /bin/
-Debug.win32/
-Release.win32/
+*Debug.win32/
+*Release.win32/
 /proj.win32/res
-.vs/
+*.vs/
